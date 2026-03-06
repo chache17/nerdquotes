@@ -13,15 +13,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Un buen back-end es como Batman; parece que no, pero siempre está ahí.
 
 *Alberto Casero*
+
 ------
 
 > A nerd can call another nerd a nerd.
 
 *Ruijia Gu*
+
 -------
+
 > "La tecnología es mejor cuando une a las personas."
 
 *Matt Mullenweg* 
+
 -------
 
 > "Los recortes son de los mejores inventos."
@@ -48,7 +52,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->"¡Algún día seré hokage, no importa lo que cueste!"
+> "¡Algún día seré hokage, no importa lo que cueste!"
 
 *Naruto Uzumaki*
 
@@ -82,16 +86,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 "Solo sé una cosa: si eres feliz, no lo arruines. Y si no eres feliz, cámbialo. Así de simple."
+
 *Lemmy Killmister*
 
->Nunca seas cruel. Nunca seas cobarde. Y nunca, nunca comas peras.
+-------
+
+> Nunca seas cruel. Nunca seas cobarde. Y nunca, nunca comas peras.
 
 *Peter Capalidi as Doctor Who*
 
 -------
 
 > “No está muerto lo que puede yacer eternamente, y con el paso de extraños eones, incluso la muerte puede morir”
-
 
 *H.P. Lovecraft*
 
@@ -158,6 +164,7 @@ antes de terminar.
 > Tengo un programa buenísimo para este fin de semana, ¿te unes?   ¡¡¡Listo  Programemos!!!.
 
 *Gonzalor*
+
 -------
 
 >Si no he vuelto en cinco minutos, buscame en github; mi último commit esta en linea.
@@ -165,6 +172,10 @@ antes de terminar.
 *Mon Lanferne*
 
 -------
+
+> "Extraordinary claims require extraordinary evidence" 
+
+*Carl Sagan*
 
 -------
 
